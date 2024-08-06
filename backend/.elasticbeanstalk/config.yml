@@ -1,0 +1,7 @@
+global:
+  application_name: your-application-name
+  default_region: your-aws-region
+  environment_name: your-environment-name
+  platform: Docker
+  branch: null
+  repository: null
